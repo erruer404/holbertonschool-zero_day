@@ -1,0 +1,9 @@
+[user]
+	name = Leah Holland
+	email = 799@holbertonschool.com
+[core]
+	editor = emacs
+[color]
+	status = auto
+	branch = auto
+	diff = auto
