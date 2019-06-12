@@ -1,1 +1,1 @@
-This file explains how to open a file from within Emacs
+This file explains how to Emacs
